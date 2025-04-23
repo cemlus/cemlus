@@ -9,7 +9,7 @@
 ###
 
 ## 💫 About Me:
-🎯 I'm currently working on DSA and personal projects<br>💻 I'm currently learning advanced backend patterns and <br>🏋️ In my free time I play football and gym<br><br>
+🎯 I'm currently working on DSA and personal projects<br>💻 I'm currently learning advanced backend patterns <br>🏋️ In my free time I play football and gym<br><br>
 
 
 ## 🌐 Socials:
